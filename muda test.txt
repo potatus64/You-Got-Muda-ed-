@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>You Got Muda'ed<title>
+<head>
+
+<body>
+<h1>You Got Muda'ed</h1>
+<h2>Giorno doesn't like you<h2>
+
+<html>
